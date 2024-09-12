@@ -1,6 +1,6 @@
 
 def q1():
-  print("Hello World!")
+  print("Hello World")
   #Write Assignment code here
   #Remember your code must be indented once
 
